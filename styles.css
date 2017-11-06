@@ -1,0 +1,36 @@
+/* add your CSS here */
+#interesting-fact {
+	font-style: italic;
+}
+
+.list-item {
+	font-weight: bold;
+}
+
+#animal-list-items {
+	list-style-type: none;
+	padding: 0px;
+}
+
+.border-around {
+	border: 1px solid grey;
+}
+
+.padding-around {
+	padding: 10px;
+}
+
+#animal-card {
+	width: 330px;
+	box-shadow: 10px 10px 15px 0px rgba(200,200,200,1);
+}
+
+#hind-image {
+	width: 300px;
+}
+
+#description {
+	width: 290px;
+	margin: 10px;
+	padding: 5px;
+}
